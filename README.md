@@ -1,8 +1,8 @@
 # Insurance-Premium-Prediction-Using-Machine-Learning
 Supervised Machine Learning Project carried out by a skilled Data Scientist to help an Insurance Company determine the insurance premium to be charged each of their customers based on their individual demographic and lifestyle factors. 
 
-BUSINESS OVERVIEW
-<img width="1856" height="997" alt="Screenshot 2026-03-31 224558" src="https://github.com/user-attachments/assets/f9728092-bd04-410e-a542-970c3bb8e651" />
+<img width="1833" height="1010" alt="Screenshot 2026-03-31 233422" src="https://github.com/user-attachments/assets/e85ea216-aad2-4470-bd9b-405841193858" />
+
 
 
 
