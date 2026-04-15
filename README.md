@@ -20,4 +20,4 @@ The Baseline for the insurance charge is $8,643.81. This means that, holding all
 Age and BMI showed to be Strong Predictors: They have substantial positive impacts on the insurance charges, consistent with health-related risk factors.
 For the Geographical Region, the baseline is set to be Northeast. It is observed that customers who live in the region_sotheast pay the lowest insurance charge with a negative coefficient of -838.92 dollars
 
-Recommendation: Different models and scalers were used (Linear Regression, Ridge, RobustScaler and StandardScaler) in determining how much a customer should be charged for their insurance premium. The company is advised to deploy Linear Regression Model and RobustScaler because of their optimum performance over others. 
+Recommendation: Different models and scalers were used (Linear Regression, Ridge, RobustScaler and StandardScaler) in determining how much a customer should be charged for their insurance premium. The company is advised to deploy Linear Regression Model and RobustScaler because of their optimum performance over other models. 
